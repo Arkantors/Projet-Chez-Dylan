@@ -1,2 +1,2 @@
 # Projet-Chez-Dylan
-Le premier projet de notre vie d'entreprise
+Dossier pour le graph du Boulet de Canon. #PersonnePourL'instant
