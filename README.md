@@ -1,2 +1,2 @@
 # Projet-Chez-Dylan
-Le premier projet de notre vie d'entreprise
+Ici c'est le dossier pour la feature du Canon. #Dylan
